@@ -23,3 +23,9 @@ With more time, web interface can be enabled to improve user experience.
 ## Database: Stopping the mysql server
 Use the below command to stop the local mysql server:
 $brew services stop mysql
+
+## Features
+1. Take the quiz
+2. Add questions to the question bank/database
+3. Check the previous answers stored in the database
+4. Start the localhost with a static page - My goal was to complete the web user interface part of the application after setting up the functioning command line application. Now that I have that, I will iterate on this current version to enable Web UI interaction.
