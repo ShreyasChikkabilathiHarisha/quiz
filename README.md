@@ -1,3 +1,4 @@
+## Quiz
 
 ## Database: First run instructions:
 Start mysql server and create the tables:
