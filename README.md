@@ -1,5 +1,14 @@
 ## Quiz
 
+## Setup go environment and clone the project locally
+1. Install golang - https://golang.org/doc/install
+2. Git clone the repo into the src folder in the $GOPATH location (which is /Users/<username>/go) 
+    i.e,. 
+        a. $ cd /Users/<username>/go/src
+        b. $ git clone git@github.com:ShreyasChikkabilathiHarisha/quiz.git
+3. $ cd quiz
+4. $ go get github.com/go-sql-driver/mysql
+
 ## Database: First run instructions:
 Start mysql server and create the tables:
 $brew services start mysql
